@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mazatron GSM Lighting.iml" filepath="$PROJECT_DIR$/Mazatron GSM Lighting.iml" group="Mazatron GSM Lighting" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Mazatron GSM Lighting/app" />
+    </modules>
+  </component>
+</project>
