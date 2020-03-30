@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/relayoneON"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40.0dip"
+        android:background="@android:color/holo_green_light"
+        android:drawableStart="@android:drawable/ic_lock_power_off"
+        android:drawableLeft="@android:drawable/ic_lock_power_off"
+        android:padding="10.0dip"
+        android:text="@string/relayOneOn"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/relayoneOFF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="130.0dip"
+        android:background="@android:color/holo_red_light"
+        android:drawableStart="@android:drawable/ic_lock_power_off"
+        android:drawableLeft="@android:drawable/ic_lock_power_off"
+        android:padding="10.0dip"
+        android:text="@string/relayOneOff"
+        android:textColor="@android:color/white" />
+
+    <EditText
+        android:id="@+id/relayOneName"
+        android:layout_width="165.0dip"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="220.0dip"
+        android:padding="10.0dip"
+        android:text="@string/relay_1"
+        android:textSize="25.0sp"
+        android:textStyle="bold" />
+</RelativeLayout>

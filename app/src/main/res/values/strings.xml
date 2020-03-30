@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mazatron GSM Lighting</string>
+    <string name="app_notfound">App Not Found !</string>
+    <string name="cancel">Cancel</string>
+    <string name="configure">Configure</string>
+    <string name="gsm_number">Number for GSM device</string>
+    <string name="light_alert">Light Alert</string>
+    <string name="light_text">You have Configured Light Alert!</string>
+    <string name="lightalert_dialog">Do you want to Configure Light Alert? This requires Pairing !</string>
+    <string name="lightalert_dialog_heading">Pairing Alert !</string>
+    <string name="main_name">GSM Lighting</string>
+    <string name="numbererror">" Enter Correct Number ! "</string>
+    <string name="pumpoff">" Your Device is OFF !"</string>
+    <string name="pumpon">Your Device is ON !</string>
+    <string name="relayOneOff">"    Switch Off "</string>
+    <string name="relayOneOn">"   Switch On "</string>
+    <string name="relay_1">Relay 1</string>
+    <string name="relay_2">Relay 2</string>
+    <string name="relay_3">Relay 3</string>
+    <string name="save_button">Save</string>
+    <string name="switch_one">Switch One</string>
+    <string name="switch_three">Switch Three</string>
+    <string name="switch_two">Switch Two</string>
+</resources>

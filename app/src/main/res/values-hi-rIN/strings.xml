@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mazatron GSM Lighting</string>
+    <string name="app_notfound">कोई App नहीं मिली !</string>
+    <string name="cancel">कैंसिल</string>
+    <string name="configure">कॉन्फ़िगर</string>
+    <string name="gsm_number">GSM उपकरण का नंबर डालें</string>
+    <string name="light_alert">लाइट अलर्ट</string>
+    <string name="light_text">"आपने लाइट अलर्ट कॉन्फ़िगर किया !       "</string>
+    <string name="lightalert_dialog">Do you want to Configure Light Alert? This requires Pairing !</string>
+    <string name="lightalert_dialog_heading">पैरिंग  अलर्ट  !</string>
+    <string name="main_name">GSM Lighting</string>
+    <string name="numbererror">सही नंबर डालें !</string>
+    <string name="pumpoff">"  आपका उपकरण बंद होगा !"</string>
+    <string name="pumpon">"  आपका उपकरण चालू होगा !"</string>
+    <string name="relayOneOff">"    Switch Off"</string>
+    <string name="relayOneOn">"    Switch On"</string>
+    <string name="relay_1">"  Relay 1"</string>
+    <string name="relay_2">"  Relay 2 "</string>
+    <string name="relay_3">"  Relay 3   "</string>
+    <string name="save_button">" Save"</string>
+    <string name="switch_one">Switch One</string>
+    <string name="switch_three">Switch Three</string>
+    <string name="switch_two">Switch Two</string>
+</resources>
